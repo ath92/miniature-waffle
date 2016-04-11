@@ -1,0 +1,18 @@
+<document>
+	<video>file/path/ljaslkads.mp4</video>
+	<sentence start="0" end="20">
+		<finnish>
+			<word id="1">Minä </word>
+			<word id="2">olen </word>
+			<word id="3">pitkä </word>
+			<word id="4">mies.</word>
+		</finnish>
+		<arabic>
+			<word id="1" finnish-id="1">kjasndkjasd </word>
+			<word id="2" finnish-id="2">jhbasd </word>
+			<word id="3" finnish-id="3">asdasd </word>
+			<word id="4" finnish-id="3">poiipo </word>
+			<word id="5" finnish-id="4">qweq.</word>
+		</arabic>
+	</sentence>
+</document>
